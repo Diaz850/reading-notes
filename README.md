@@ -1,4 +1,4 @@
 # reading-notes
 **My Code Fellow Reading Notes**
 
-[GitHubPages](https://github.com/Diaz850)
+[GitHub Profile](https://github.com/Diaz850)
