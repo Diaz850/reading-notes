@@ -12,4 +12,8 @@ Growth mindset to me means to be presistent in obtaining an objective despite th
 
 3.Dedication and Discipline create a desired outcome.
 
+### About Me
+Navy Veteran with a industry background in Construction jumping head first into the Tech World.
+I am a proud father of a little boy and little girl, happily married, and owner of the cutest Shih-Tzu in the world. 
+
 [GitHub Profile](https://github.com/Diaz850)
