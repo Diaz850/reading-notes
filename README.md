@@ -33,6 +33,6 @@ I am a proud father of a little boy and little girl, happily married, and owner 
 
 ***When making text bold or italicized for emphasis, it is best practice to use which symbol?*** It is best to use the asterisks symbol
 
-***How do you create a link with Markdown?***To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses 
+***How do you create a link with Markdown?*** To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses 
 
 ***What are the three symbols you can use to create an unordered (bulleted) list with Markdown?*** The -, *, and +
