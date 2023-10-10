@@ -18,7 +18,10 @@ Navy Veteran with a industry background in Construction jumping head first into 
 I am a proud father of a little boy and little girl, happily married, and owner of the cutest Shih-Tzu in the world. 
 ![Picture of Maddy and Peter Diaz](31420442-D05D-42EF-83A7-0E12CDAEC3FA_1_105_c.jpeg)
 
+
 [GitHub Profile](https://github.com/Diaz850)
+
+[Class-02.md]
 
 ### Markdown
 ***What is Markdown?*** Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
