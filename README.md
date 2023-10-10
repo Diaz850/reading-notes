@@ -4,6 +4,12 @@
 >
 *B.F. Skinner*
 
+- [My Code Fellow Reading Notes](#my-code-fellow-reading-notes)
+  - [Growth Mindset](#growth-mindset)
+    - [About Me](#about-me)
+
+
+
 ## Growth Mindset
 
 Growth mindset to me means to be presistent in obtaining an objective despite there being difficulty or uncertainty in the outcome.
