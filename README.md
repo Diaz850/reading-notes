@@ -23,7 +23,7 @@ I am a proud father of a little boy and little girl, happily married, and owner 
 ### Markdown
 ***What is Markdown?*** Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
-***Why do we use Markdown?***Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
+***Why do we use Markdown?*** Markdown is platform independent. You can create Markdown-formatted text on any device running any operating system.
 
 ***What symbol will create a heading in Markdown?*** The # symbol creates a Heading
 
