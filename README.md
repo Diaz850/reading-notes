@@ -6,11 +6,11 @@
 ## Growth Mindset 
 Growth mindset to me means to be presistent in obtaining an objective despite there being difficulty or uncertainty in the outcome.
 
-1.Remember that nothing is Impossible. 
+- Remember that nothing is *Impossible* . 
 
-2.Practice makes Perfect. 
+- Practice makes *Perfect*. 
 
-3.Dedication and Discipline create a desired outcome.
+- *Dedication* and *Discipline* create a desired outcome.
 
 ### About Me
 👋
