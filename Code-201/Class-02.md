@@ -1,4 +1,4 @@
-# Class-02 Reading Notes: The Coders Computer
+ # Class-02 Reading Notes
 
 Four features that you should look for in a text editor include code completion; syntax
 highlighting; A variety of themes (to reduce eye strain and

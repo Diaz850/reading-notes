@@ -29,3 +29,7 @@ I am a proud father of a little boy and little girl, happily married, and owner 
 ![Picture of Maddy and Peter Diaz](31420442-D05D-42EF-83A7-0E12CDAEC3FA_1_105_c.jpeg)
 
 [GitHub Profile](https://github.com/Diaz850)
+
+- [My Code Fellow Reading Notes](#my-code-fellow-reading-notes)
+  -[Code 102 Reading Notes](/Code-102/)
+    [Class_01](/Code-102/Class-01.md)
