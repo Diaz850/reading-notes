@@ -31,46 +31,46 @@ I am a proud father of a little boy and little girl, happily married, and owner 
 
 [Class 2](/Code-102/Class-02.md)
 
-[Class 3](/Code-102/Class-02.md)
+[Class 3](/Code-102/Class-03.md)
 
-[Class 4](/Code-102/Class-02.md)
+[Class 4](/Code-102/Class-04.md)
 
-[Class 5](/Code-102/Class-02.md)
+[Class 5](/Code-102/Class-05.md)
 
-[Class 6](/Code-102/Class-02.md)
+[Class 6](/Code-102/Class-06.md)
 
-[Class 7](/Code-102/Class-02.md)
+[Class 7](/Code-102/Class-07.md)
 
-[Class 8](/Code-102/Class-02.md)
+[Class 8](/Code-102/Class-08.md)
 
 # [Code 201 Reading Notes](/Code-201/)
 
 [Class 1](Class-01.md) 
 
-[Class 2](Class-01.md) 
+[Class 2](Class-02.md) 
 
-[Class 3](Class-01.md) 
+[Class 3](Class-03.md) 
 
-[Class 4](Class-01.md)
+[Class 4](Class-04.md)
 
-[Class 5](Class-01.md)
+[Class 5](Class-05.md)
 
-[Class 6](Class-01.md) 
+[Class 6](Class-06.md) 
 
-[Class 7](Class-01.md) 
+[Class 7](Class-07.md) 
 
-[Class 8](Class-01.md) 
+[Class 8](Class-08.md) 
 
-[Class 9](Class-01.md) 
+[Class 9](Class-09.md) 
 
-[Class 10](Class-01.md) 
+[Class 10](Class-10.md) 
 
-[Class 11](Class-01.md) 
+[Class 11](Class-11.md) 
 
-[Class 12](Class-01.md) 
+[Class 12](Class-12.md) 
 
- [Class 13](Class-01.md) 
+ [Class 13](Class-13.md) 
 
- [Class 14](Class-01.md) 
+ [Class 14](Class-14.md) 
 
- [Class 15](Class-01.md) 
+ [Class 15](Class-15.md) 
