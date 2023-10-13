@@ -1,4 +1,5 @@
-What is control flow?
+# What is control flow?
+
 The control flow is the order in which the computer executes statements in a script.
 
 What is a JavaScript function?
