@@ -1,10 +1,14 @@
-# My Code Fellow Reading Notes
+# Reading Notes
 
->A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.
->
-*B.F. Skinner*
+## Code 102 - Intro to Software Development
 
-## Growth Mindset
+## Code 201 - Foundations of Software Development
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
+### Growth Mindset
 
 Growth mindset to me means to be presistent in obtaining an objective despite there being difficulty or uncertainty in the outcome.
 
