@@ -1,9 +1,11 @@
-Compose a short poem describing how HTTP sends data between computers.
+## Compose a short poem describing how HTTP sends data between computers.
+
 HTTP, it's really neat,
 Helps computers talk and meet.
 Like a letter, but it's digital,
 It sends stuff that's really pivotal.
-Describe how HTML, CSS, and JS files are “parsed” in the browser.
+
+ ## Describe how HTML, CSS, and JS files are “parsed” in the browser.
 When a web page loads, the browser first parses the HTML file, creating the Document Object Model (DOM) to represent the page's structure. During this process, it identifies any linked CSS and JS resources. Once these are encountered, the browser fetches and parses CSS files, creating the CSS Object Model (CSSOM) to define styles for the page's elements. As the browser continues parsing HTML, it may pause when encountering script tags, loading and executing JavaScript files.
 How can you find images to add to a Website?
 You can use your own images, google search images, stock photo websites.

@@ -49,9 +49,9 @@ I am a proud father of a little boy and little girl, happily married, and owner 
 
 # [Code 201 Reading Notes](/Code-201/)
 
-[Class 1](Class-01.md) 
+[Class 1](/Code-201/Class-01.md) 
 
-[Class 2](Class-02.md) 
+[Class 2](/Code-201/Class-02.md) 
 
 [Class 3](Class-03.md) 
 
