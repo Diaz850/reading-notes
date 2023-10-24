@@ -51,7 +51,7 @@ I am a proud father of a little boy and little girl, happily married, and owner 
 
 [Class 1](./Code-201/Class-01.md) 
 
-[Class 2](https://diaz850.github.io/reading-notes/Code-201/Class-02) 
+[Class 2](./Code-201/Class-02.md) 
 
 [Class 3](Class-03.md) 
 
