@@ -55,7 +55,7 @@ I am a proud father of a little boy and little girl, happily married, and owner 
 
 [Class 3](./Code-201/Class-03.md) 
 
-[Class 4](Class-04.md)
+[Class 4](./Code-201/Class-04.md)
 
 [Class 5](Class-05.md)
 
