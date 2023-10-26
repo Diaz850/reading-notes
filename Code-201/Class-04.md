@@ -35,3 +35,5 @@ Pick 2 benefits to pair programming and reflect on how these benefits could help
 
 Engaged Collabortion- I recently collaborated with a classmate and it helped me focus more on the code when we walked through what and why the results were the way they were.
 Work Enviroment readiness - Talking to the TA's helps me prepare to enter into a workforce of tech. Seeing how they walk you through the problems and find solutions is very helpful and understanding. 
+
+Sources include Google and ChatGPT
