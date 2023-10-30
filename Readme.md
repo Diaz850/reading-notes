@@ -59,7 +59,7 @@ I am a proud father of a little boy and little girl, happily married, and owner 
 
 [Class 5](Class-05.md)
 
-[Class 6](Class-06.md) 
+[Class 6](./Code-201/Class-06.md) 
 
 [Class 7](Class-07.md) 
 
